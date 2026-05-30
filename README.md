@@ -172,9 +172,9 @@ Live extraction from sentinals.sharepoint.com:
 
 | Metric | Value |
 |---|---|
-| Total files extracted | 18 |
-| Total audit events | 183 |
-| Successful logins | 165 |
+| Total files extracted | 26 |
+| Total audit events | 1.2K |
+| Successful logins | 1.3K |
 | Failed logins | 18 |
 | Risky sign-ins | 0 |
 | Total permissions | 72 |
