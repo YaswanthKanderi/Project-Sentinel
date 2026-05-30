@@ -58,7 +58,6 @@ Project-Sentinel/
 ├── host.json
 ├── requirements.txt
 ├── README.md
-├── .gitignore
 ├── auth/
 │   ├── __init__.py
 │   └── msal_auth.py
